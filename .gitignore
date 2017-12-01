@@ -1,7 +1,26 @@
-/.idea/
-/build/
-/run/
-/.gradle/
-gradle.log
-/4.3.1/
-/buildOutputCleanup/
+.DS_Store
+
+/download
+/eclipseBin
+
+# gradle
+/.gradle
+/build
+
+# ForgeGradle
+/run
+
+# eclipse
+/eclipse
+/.settings
+/.metdata
+/.classpath
+/.project
+/bin
+
+# intellij
+/out
+/.idea
+/*.iml
+/*.ipr
+/*.iws
