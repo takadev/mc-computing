@@ -1,0 +1,3 @@
+name: KotlinPlugin
+version: @version@
+main: mc.computing.kotlin.kotlinplugin.KotlinPlugin
